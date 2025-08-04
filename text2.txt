@@ -1,0 +1,5 @@
+fenfPS C:\Users\Saurabh Pawar\OneDrive\Desktop\New folder> git add .
+error: open(".vs/New folder/FileContentIndex/43a07122-98ed-4cdd-ad1a-4efcbc7a3a70.vsidx"): Permission denied
+error: unable to index file '.vs/New folder/FileContentIndex/43a07122-98ed-4cdd-ad1a-4efcbc7a3a70.vsidx'
+fatal: adding files failed
+PS C:\Users\Saurabh Pawar\OneDrive\Desktop\New folder>enfklfnelv v al, 
